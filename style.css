@@ -23,10 +23,14 @@ padding: 3% 5%;
 z-index: 10;
 }
 
-.navbar__bran
-position: absolute;
+.navbar__brand {
 width: 100px;
-height: 100px;
+height: 100%;
+}
+
+.brand__logo {
+width: 100%;
+height: 100%;
 }
 
 .language__drop__down {
