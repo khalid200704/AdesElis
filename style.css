@@ -25,9 +25,7 @@ z-index: 10;
 
 .navbar__bran
 position: absolute;
-top: 0;
 width: 100%;
-z-index: 10;
 }
 
 .brand__logo {
