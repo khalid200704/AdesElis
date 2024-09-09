@@ -23,9 +23,11 @@ padding: 3% 5%;
 z-index: 10;
 }
 
-.navbar__brand {
-width: 100px;
-height: 100%;
+.navbar__bran
+position: absolute;
+top: 0;
+width: 100%;
+z-index: 10;
 }
 
 .brand__logo {
