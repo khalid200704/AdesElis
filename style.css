@@ -11,11 +11,12 @@ body {
 background-color: black;
 color: white;
 font-family: "Poppins", sans-serif;
+padding-top: 50px;
 }
 
 .navbar {
 position: absolute;
-top: 0;
+top: 50px;
 width: 100%;
 display: flex;
 justify-content: space-between;
@@ -95,7 +96,7 @@ background-image: linear-gradient(
 
 .hero__card {
 position: absolute;
-top: 20%;
+top: 25%;
 text-align: center;
 display: flex;
 flex-direction: column;
@@ -429,6 +430,7 @@ color: #757575;
 @media (min-width: 1024px) {
 .navbar {
     padding: 2% 5%;
+    top: 60px;
 }
 
 .navbar__brand {
