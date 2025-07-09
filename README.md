@@ -53,7 +53,7 @@ A responsive Netflix clone built with HTML, CSS, and JavaScript. This project wa
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
+   git clone https://github.com/khalid200704/AdesdanElis
    cd netflix-clone
    ```
 
@@ -181,8 +181,8 @@ This project is for educational purposes only. All Netflix branding, content, an
 ## 📞 Contact
 
 For questions about this educational project:
-- GitHub: [Your GitHub Profile]
-- Email: [Your Email]
+- GitHub: https://github.com/khalid200704
+- Email: Abdullah20Khalid20@gmail.com
 
 ---
 
